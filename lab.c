@@ -3,6 +3,6 @@
 void main()
 {
 
-    printf("HELLO, WORLD!");
+    printf("00000000000000000000000000000000000");
 
 }
